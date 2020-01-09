@@ -19,7 +19,7 @@
             $("[data-test-id=agreement]").click();
             $(".button__text").click();
             $(withText("Успешно!")).waitUntil(Condition.visible, 15000);
-            HelpParameters.clean();
+            HelpParameters.cleanDate();
             $("[placeholder='Дата встречи']").setValue(HelpParameters.getNewDate());
             $(".button__text").click();
             $("[data-test-id='replan-notification']").waitUntil(Condition.visible, 15000);
