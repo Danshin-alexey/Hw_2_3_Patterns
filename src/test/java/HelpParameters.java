@@ -5,6 +5,8 @@ import java.util.Locale;
 import static com.codeborne.selenide.Selenide.$;
 
 public class HelpParameters {
+    private HelpParameters () {
+    }
         private static Faker faker = new Faker(new Locale("ru"));
         private static String fullName = faker.name().fullName();
         private static String phone = faker.phoneNumber().cellPhone();
@@ -27,10 +29,10 @@ public class HelpParameters {
         public static void cleanDate () {
             $("[placeholder='Дата встречи']").clear();
         }
-
         static String getNewDate () {
             LocalDate todayNew = LocalDate.now().plusDays(10);
             DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd.MM.yyyy");
             return todayNew.format(formatter);
         }
     }
+
