@@ -7,7 +7,6 @@
 
     public class DeliveryCardTest {
 
-
         @DisplayName("Should fill in all fields, safe and change only date")
         @Test
         void changeDate(){

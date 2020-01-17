@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "DeliveryCardTest",
+    "children" : [ {
+      "name" : "Should fill in all fields, safe and change only date",
+      "uid" : "58268bfa28b2b0b7",
+      "parentUid" : "c26ee721ab1a309305f8addafbd87bdb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579260527609,
+        "stop" : 1579260539898,
+        "duration" : 12289
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "c26ee721ab1a309305f8addafbd87bdb"
+  } ]
+}

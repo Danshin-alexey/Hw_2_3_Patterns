@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "DeliveryCardTest",
+    "children" : [ {
+      "name" : "changeDate",
+      "uid" : "58268bfa28b2b0b7",
+      "parentUid" : "61cc1a2ccce00c83f842b1c73c1ab0b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579260527609,
+        "stop" : 1579260539898,
+        "duration" : 12289
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "61cc1a2ccce00c83f842b1c73c1ab0b2"
+  } ]
+}

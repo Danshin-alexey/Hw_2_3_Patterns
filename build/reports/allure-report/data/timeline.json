@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-NEPLT2O",
+    "children" : [ {
+      "name" : "12728@DESKTOP-NEPLT2O.Test worker(14)",
+      "children" : [ {
+        "name" : "Should fill in all fields, safe and change only date",
+        "uid" : "58268bfa28b2b0b7",
+        "parentUid" : "c7a4863775b8ffa3879b1ce34dbae9dd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579260527609,
+          "stop" : 1579260539898,
+          "duration" : 12289
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c7a4863775b8ffa3879b1ce34dbae9dd"
+    } ],
+    "uid" : "8196b77951c4e6b8cf40d4f87d512430"
+  } ]
+}

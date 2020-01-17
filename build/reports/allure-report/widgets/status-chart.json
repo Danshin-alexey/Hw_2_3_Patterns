@@ -1,0 +1,11 @@
+[ {
+  "uid" : "58268bfa28b2b0b7",
+  "name" : "Should fill in all fields, safe and change only date",
+  "time" : {
+    "start" : 1579260527609,
+    "stop" : 1579260539898,
+    "duration" : 12289
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
