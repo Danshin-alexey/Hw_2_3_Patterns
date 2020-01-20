@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="DeliveryCardTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-17T11:28:47" hostname="DESKTOP-NEPLT2O" time="12.385">
+<testsuite name="DeliveryCardTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-20T10:00:31" hostname="DESKTOP-NEPLT2O" time="14.182">
   <properties/>
-  <testcase name="changeDate()" classname="DeliveryCardTest" time="12.385"/>
+  <testcase name="changeDate()" classname="DeliveryCardTest" time="14.182"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[янв. 17, 2020 3:28:47 PM com.codeborne.selenide.drivercommands.LazyDriver getAndCheckWebDriver
+  <system-err><![CDATA[янв. 20, 2020 2:00:31 PM com.codeborne.selenide.drivercommands.LazyDriver getAndCheckWebDriver
 INFO: No webdriver is bound to current thread: 14 - let's create a new webdriver
-Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}) on port 32821
+Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}) on port 17224
 Only local connections are allowed.
 Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
-[1579260531.854][WARNING]: Timed out connecting to Chrome, retrying...
-янв. 17, 2020 3:28:53 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1579514436.653][WARNING]: Timed out connecting to Chrome, retrying...
+янв. 20, 2020 2:00:38 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
-янв. 17, 2020 3:28:53 PM com.codeborne.selenide.webdriver.BrowserResizer adjustBrowserSize
+янв. 20, 2020 2:00:38 PM com.codeborne.selenide.webdriver.BrowserResizer adjustBrowserSize
 INFO: Set browser size to 1366x768
-[1579260535.922][WARNING]: Timed out connecting to Chrome, retrying...
-янв. 17, 2020 3:28:58 PM com.codeborne.selenide.webdriver.WebDriverFactory logBrowserVersion
+[1579514440.720][WARNING]: Timed out connecting to Chrome, retrying...
+янв. 20, 2020 2:00:42 PM com.codeborne.selenide.webdriver.WebDriverFactory logBrowserVersion
 INFO: BrowserName=chrome Version=79.0.3945.117 Platform=WINDOWS
-янв. 17, 2020 3:28:58 PM com.codeborne.selenide.webdriver.WebDriverFactory createWebDriver
+янв. 20, 2020 2:00:42 PM com.codeborne.selenide.webdriver.WebDriverFactory createWebDriver
 INFO: Selenide v. 5.3.1
-янв. 17, 2020 3:28:58 PM com.codeborne.selenide.webdriver.WebDriverFactory logSeleniumInfo
+янв. 20, 2020 2:00:42 PM com.codeborne.selenide.webdriver.WebDriverFactory logSeleniumInfo
 INFO: Selenium WebDriver v. 3.141.59 build time: 2018-11-14T08:17:03
-янв. 17, 2020 3:28:58 PM com.codeborne.selenide.drivercommands.CreateDriverCommand createDriver
-INFO: Create webdriver in current thread 14: ChromeDriver -> ChromeDriver: chrome on WINDOWS (4d99bfcb7d7207b859121f52de203daf)
+янв. 20, 2020 2:00:42 PM com.codeborne.selenide.drivercommands.CreateDriverCommand createDriver
+INFO: Create webdriver in current thread 14: ChromeDriver -> ChromeDriver: chrome on WINDOWS (ce9a237a4f82f0edbec3d4f7514ec533)
 ]]></system-err>
 </testsuite>
